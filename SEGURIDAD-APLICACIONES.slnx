@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UPS.TestUnit/UPS.TestUnit.csproj" />
+  <Project Path="UPS.Utilities/UPS.Utilities.csproj" />
+</Solution>
