@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../UPS.TestUnit/UPS.TestUnit.csproj" Id="e0b48fc0-2ca9-406b-aff2-aa708b95245f" />
   <Project Path="UPS.Utilities.csproj" />
 </Solution>
