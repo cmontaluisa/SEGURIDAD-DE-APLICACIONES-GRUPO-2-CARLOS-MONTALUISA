@@ -3,6 +3,9 @@ using System.Text;
 
 namespace UPS.TestUnit
 {
+    /// <summary>
+    /// Unit Test
+    /// </summary>
     public class EncodingUtilsTest
     {
         [Fact]
